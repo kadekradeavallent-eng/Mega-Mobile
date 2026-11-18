@@ -1,0 +1,11 @@
+{
+  "geode": "v3.0.0-alpha.1",
+  "gd": {
+    "android": "2.206"
+  },
+  "id": "raiz.mega-mobile",
+  "name": "Mega Mobile",
+  "version": "v0.1.0",
+  "developer": "Raiz",
+  "description": "Mega Mobile starter project for Geometry Dash 2.206 Android."
+}

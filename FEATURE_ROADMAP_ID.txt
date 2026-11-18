@@ -1,0 +1,18 @@
+ROADMAP MEGA MOBILE
+
+Belum diimplementasikan:
+[ ] Menu pengaturan Mega Mobile
+[ ] HUD FPS/TPS dan session timer
+[ ] Visual hitbox dan hitbox trail
+[ ] Opsi visual trail dan efek
+[ ] Practice helper / checkpoint tools
+[ ] Pengaturan kontrol/keybind
+[ ] Start Position helper
+[ ] Speed control untuk latihan offline
+[ ] Replay/frame-step tools
+
+Tidak termasuk:
+- manipulasi skor/leaderboard/server
+- bypass copy-lock/password level
+- upload level tanpa verifikasi
+- pembukaan konten berbayar/terkunci
